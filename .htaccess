@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^shell\.php$ /shell.txt [L]
+RewriteRule ^co\.php$ /co.txt [L]
